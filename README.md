@@ -15,7 +15,7 @@ A Python and Streamlit application that helps traders calculate position size ba
 
 ## Screenshot
 
-![Application Preview](screenshots/Brave Screenshot.png)
+![Application Preview](screenshots/app-preview.png)
 
 ## Technologies Used
 
